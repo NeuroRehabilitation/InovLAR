@@ -7,6 +7,7 @@ export default {
         save: "Guardar",
         saving: "A guardar…",
         cancel: "Cancelar",
+        close: "Fechar",
         back: "Voltar",
         backArrow: "← Voltar",
         delete: "Eliminar",
@@ -277,5 +278,8 @@ export default {
         noTableHint: "Peça ao staff para configurar a tabela deste utente.",
         resolveAll: "Concluir todos os pedidos",
         requestSent: "Pedido enviado com sucesso",
+        emptyList: "Sem pedidos pendentes",
+        markDone: "Marcar como concluído",
+        cancelRequest: "Cancelar pedido",
     },
 };
